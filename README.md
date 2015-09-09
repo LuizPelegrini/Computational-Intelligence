@@ -1,2 +1,2 @@
 # Computational-Intelligence
-Genetic Algorithm developed during my Third Year in Universidade Federal de Uberlândia
+Genetic Algorithm developed during my Third Year at Universidade Federal de Uberlândia
